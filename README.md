@@ -2,7 +2,7 @@
 
 Neste documento iremos rever todos os topicos abordados no **Módulo II** do curso **"Programação Web Fullstack 2022"** da **CAMPINHO DIGITAL**.
 
-## **1.Logica de programação**
+## **1. Logica de programação**
 
   
   **Logica de programação** é a organização coesa de uma sequencia de instruções voltadas a resolução de um problema, ou a criação de um software ou aplicação. 
@@ -33,7 +33,7 @@ Podemos    dividir    um algoritmo  em  três  fases fundamentais: **entrada,pro
 - **Saída:** É o resultado esperado da fase de processamento, dados já processados.
 
 
-## **2.Git**
+## **2. Git**
 
 **Git** é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software para registrar o histórico de edições dos arquivos. Com  o  **Git**  podemos  desenvolver  projetos  colaborativos,  com  diversas pessoas trabalhando simultaneamente no mesmo código sem riscos de perdermos o que fizemos. O **Git** guarda um histórico de tudo que foi alterado nos arquivos ao longo do tempo, além de mostrar quem foi o autor da mudança.
 
@@ -60,11 +60,11 @@ Podemos    dividir    um algoritmo  em  três  fases fundamentais: **entrada,pro
 
 
 
-## **3.GitHub**
+## **3. GitHub**
 
 **GitHub** é uma plataforma de hospedagem de código-fonte com controle de versão usando o **Git**. **GitHub** é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto.
 
-## **4.Estrutura e operadores**
+## **4. Estrutura e operadores**
 
 Em ciência da computação, **estrutura de controle** (ou fluxo de controle) refere-se à ordem em que instruções, expressões e chamadas de função são executadas ou avaliadas em programas de computador sob programação imperativa ou funcional.
 
@@ -90,7 +90,7 @@ Deve-se observar que, caso o bloco de código nunca modificar o estado da condi�
 É um elemento de ligação das palavras que compõem um comando
 de pesquisa. É o operador lógico que indica para o sistema a maneira como se quer que uma palavra esteja em relação à outra dentro do documento, para que esse documento seja recuperado. Há três operações lógicas principais envolvidas na função de pesquisa que são representadas pelos operadores **AND, NOT e OR.** 
 
-### **1. Operador E (AND)**
+### **Operador E (AND)**
 
 O Operador **“E”** ou **“AND”** resulta em um valor **VERDADEIRO** se os dois valores de entrada da operação forem **VERDADEIROS**, caso contrário o resultado é **FALSO**. Abaixo a tabela-verdade da operação **E**.
 
@@ -103,7 +103,7 @@ FALSO	   |VERDADEIRO	|FALSO
 FALSO	   |FALSO	    |FALSO
 
 
-### **2. Operador OU (OR)**
+### **Operador OU (OR)**
 
 O Operador **“OU” ou “OR”** resulta em um valor **VERDADEIRO** se ao menos **UM** dos dois valores de entrada da operação for **VERDADEIRO**, caso contrário o resultado é **FALSO**. Abaixo a tabela-verdade da operação **OU**.
 
@@ -116,7 +116,7 @@ FALSO      |VERDADEIRO |VERDADEIRO
 FALSO	   |FALSO      |FALSO
 
 
-### **3. Operador NÃO (NOT)**
+### **Operador NÃO (NOT)**
 
 O Operador **“NÃO”** ou **“NOT”** é o único operador que recebe como entrada apenas um valor, e sua função é simplesmente inverter os valores. Ou seja, se o valor de entrada for **VERDADEIRO**, o resultado será **FALSO** e se o valor de entrada for **FALSO**, o resultado será **VERDADEIRO**. Abaixo a tabela-verdade da operação **NÃO**.
 
