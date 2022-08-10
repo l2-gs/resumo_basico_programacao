@@ -138,17 +138,14 @@ As variáveis **int** são utilizadas para definirem números inteiros. Eles pod
 **2. float:**
 As variáveis do tipo **float** são utilizadas para armazenar números reais. Elas são empregadas em operações simples que contenham números com duas casas decimais. O armazenamento dos dados ocorre com precisão simples.
 
-**3. double:**
-As variáveis do tipo **double** são semelhantes às variáveis **float**. Elas permitem o armazenamento de números reais, ou seja, com ponto flutuante, mas com precisão dupla. Isso dá às variáveis double o dobro da capacidade das variáveis float.
-
-**4. char:**
+**3. char:**
 Esse tipo de variável é utilizado para armazenar um único caractere (como uma letra). Nesse caso, as variáveis desse tipo não podem ser utilizadas em operações de soma, subtração, divisão ou multiplicação. Afinal, o software interpretará o conteúdo como se ele fosse uma letra.
 
-**5. string:**
+**4. string:**
 As **strings** são variáveis utilizadas para o armazenamento de faixas de texto. 
 Por ser uma variável para texto, as strings não podem ser adotadas em operações matemáticas. Mas elas são úteis para exibir mensagens para os usuários, armazenar nomes e outros tipos de registros importantes.
 
-**6. boolean:**
+**5. boolean:**
 As variáveis do tipo **boolean**, ou apenas **booleanas**, são implementadas com um único objetivo: adotar valores de verdadeiro ou falso. Isso permite ao software validar registros, definir quais passos tomar após uma ação do usuário, ou automatizar processos.
 
 
